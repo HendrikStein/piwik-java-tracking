@@ -23,6 +23,7 @@ import javax.servlet.http.Cookie;
 /**
  * 
  * @author Martin Fochler
+ * @author Hendrik Stein
  */
 public class ResponseData {
 
